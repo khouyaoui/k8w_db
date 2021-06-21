@@ -7,8 +7,19 @@ CREATE TABLE Personas (
     Poblacion varchar(255)
 );
 
-INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES 
+INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES
 	(1,"Moha","Ben","-","Berlin 629","NCB");
-	
-INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES 
+INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES
 	(2,"Binta","Anil","-","Gran Via, 11","GRT");
+ INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES
+         (2,"Binta","Anil","-","Gran Via, 11","GRT");
+ INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES
+         (2,"Binta","Anil","-","Gran Via, 11","GRT"); 
+ INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES
+         (2,"Binta","Anil","-","Gran Via, 11","GRT");
+ INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES
+         (2,"Binta","Anil","-","Gran Via, 11","GRT");
+ INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES
+         (2,"Binta","Anil","-","Gran Via, 11","GRT");
+ INSERT INTO Personas(PersonaID,Nombre,Apellido1,Apellido2,Direccion,Poblacion) VALUES
+         (2,"Binta","Anil","-","Gran Via, 11","GRT");
